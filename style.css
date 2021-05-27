@@ -2,7 +2,7 @@
 :root {
     --main-bg-color: brown;
 }
-body{
+.body {
     background-color: rgb(247, 197, 137);
 }    
 h1 {
